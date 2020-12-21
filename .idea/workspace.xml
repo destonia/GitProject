@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f073a4e7-a9f0-428b-9d1c-9135b2819c42" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/tesst.html" afterDir="false" />
+    <list default="true" id="f073a4e7-a9f0-428b-9d1c-9135b2819c42" name="Default Changelist" comment="abc">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project1.html" beforeDir="false" afterPath="$PROJECT_DIR$/project1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/stylesheet.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/abc/project1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abc/source/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/abc/source/news.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/news.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/abc/stylesheet.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/test.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +42,11 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\WebstormProjects\untitled3\abc" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -49,8 +57,19 @@
       <updated>1608263445817</updated>
       <workItem from="1608263447008" duration="5828000" />
       <workItem from="1608442652570" duration="12828000" />
-      <workItem from="1608513514367" duration="3786000" />
+      <workItem from="1608513514367" duration="3974000" />
+      <workItem from="1608520509257" duration="204000" />
+      <workItem from="1608520733130" duration="2514000" />
+      <workItem from="1608533805276" duration="1577000" />
     </task>
+    <task id="LOCAL-00001" summary="abc">
+      <created>1608520683905</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608520683905</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -67,5 +86,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="abc" />
+    <option name="LAST_COMMIT_MESSAGE" value="abc" />
   </component>
 </project>
